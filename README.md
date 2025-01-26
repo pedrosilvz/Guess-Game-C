@@ -13,11 +13,18 @@
 
 
 
-###  - A Guess Game created with C language in Visual Studio Code. Try to change the language of the programm if you want to! The default language in the project is Brazilian Portuguese (you can also delete **`#include <locale.h>`** e **`setlocale(LC_ALL, "Portuguese_Brazil")`** if you not using portuguese words in the project.
+###  - A Guess Game created with C language in Visual Studio Code. Try to change the language of the programm if you want to! The default language in the project is Brazilian Portuguese (you can also delete **`#include <locale.h>`** e **`setlocale(LC_ALL, "Portuguese_Brazil")`** if you not using portuguese words in the project. 
+
+###  - This project was made by me as a activity in **`Alura curso C: Conhecendo a linguagem das linguagens.`**
 
 <br>
 
-###  - Um jogo de advinhação criado com a linguagem de programação C. A parte: **`#include <locale.h>`** e **`setlocale(LC_ALL, "Portuguese_Brazil");`** são usados para deixar as letras e palavras do português de forma correta e coesa no terminal da sua IDE (Caso você programe em C/C++ no Visual Studio Code, pode ser que mesmo colocando os códigos acima, o seu código ainda fique com as palavras e letras diferentes no terminal. Para resolver isso siga os seguintes passos:
+---
+
+## Tradução 🥂
+###  - Um jogo de advinhação criado com a linguagem de programação C. 
+###  - Esse projeto foi realizado por mim como uma atividade da  **`Alura curso C: Conhecendo a linguagem das linguagens.`** 
+###  - A parte: **`#include <locale.h>`** e **`setlocale(LC_ALL, "Portuguese_Brazil");`** são usados para deixar as letras e palavras do português de forma correta e coesa no terminal da sua IDE (Caso você programe em C/C++ no Visual Studio Code, pode ser que mesmo colocando os códigos acima, o seu código ainda fique com as palavras e letras diferentes no terminal. Para resolver isso siga os seguintes passos:
 
 - Abra o seu **`arquivo.c`**;
 - Inclua os códigos: **`#include <locale.h>`** e **`setlocale(LC_ALL, "Portuguese_Brazil");`**;
